@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **new projects 🚀**
 
+- 💬 Ask me about **my UX meets D&D workshop**
+
 - ⚡ Fun fact **I'm also a RPG Game Master! 🎲**
 
 <h3 align="left">Connect with me:</h3>
