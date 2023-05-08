@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther</h1>
-<h3 align="center">A Junior Front-end Developer and UX Designer</h3>
+<h3 align="center">AFront-end Developer and UX Designer</h3>
 
 - 🔭 I’m currently working on **my personal portfolio! 💻**
 
